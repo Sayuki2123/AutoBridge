@@ -1,0 +1,2 @@
+com.YostarJP.BlueArchive
+com.nexon.bluearchive

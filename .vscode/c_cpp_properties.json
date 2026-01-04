@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Android",
+      "includePath": [
+        "${workspaceFolder}/include",
+        "${env:ANDROID_NDK_HOME}/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/**"
+      ],
+      "defines": [
+        "__LP64__"
+      ],
+      "compilerPath": "${env:ANDROID_NDK_HOME}/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-clang-x64"
+    }
+  ],
+  "version": 4
+}
