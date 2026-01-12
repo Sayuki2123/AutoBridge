@@ -1,4 +1,4 @@
-English | [中文](README_zh-TW.md)
+English | [繁體中文](README_zh-TW.md)
 
 # Auto Bridge
 
@@ -37,11 +37,12 @@ Screenshot environment:
 - CPU: AMD Ryzen 5 1600
 - GPU: AMD Radeon RX 460
 - RAM: 16 GB
-- WSA Version: WSABuilds v2407.40000.0.0_LTS_7
-- Apps tested:
-  - Puzzle & Dragons (JP)
+- WSA version: WSABuilds v2407.40000.4.0_LTS_7-with-KernelSU-v1.0.5 (June 02, 2025)
+- Android version: 13
+- Tested apps:
+  - Puzzle & Dragons (JP), ver.22.9.1
     - Crashes on launch when using NDK Translation.
-  - Blue Archive (JP)
+  - Blue Archive (JP), ver.1.64.395492
     - Crashes during initialization when using Houdini.
 
 ## FAQ

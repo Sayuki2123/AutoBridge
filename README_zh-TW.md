@@ -1,4 +1,4 @@
-[English](README.md) | 中文
+[English](README.md) | 繁體中文
 
 # Auto Bridge
 
@@ -37,11 +37,12 @@
 - 處理器：AMD Ryzen 5 1600
 - 顯示卡：AMD Radeon RX 460
 - 記憶體：16GB
-- WSA 版本：WSABuilds v2407.40000.0.0_LTS_7
+- WSA 版本：WSABuilds v2407.40000.4.0_LTS_7-with-KernelSU-v1.0.5 (2025/06/02)
+- Android 版本：13
 - 測試 App：
-  - 龍族拼圖 (日版)
+  - 龍族拼圖 (日版)，ver.22.9.1
     -  使用 NDK Translation 時會在啟動時閃退
-  - 蔚藍檔案 (日版)
+  - 蔚藍檔案 (日版)，ver.1.64.395492
     -  使用 Houdini 時會在初始化時閃退
 
 ## 常見問題
